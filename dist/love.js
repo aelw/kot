@@ -645,7 +645,7 @@ var set_celtic_identifier = function (card_obj, i) {
       card_obj["identifier"] = "영향";
       break;
     case 9:
-      card_obj["identifier"] = "희망";
+      card_obj["identifier"] = "바람";
       break;
     case 10:
       card_obj["identifier"] = "결과";
